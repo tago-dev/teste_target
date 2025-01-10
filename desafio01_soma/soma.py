@@ -6,4 +6,4 @@ while k < indice:
     k += 1
     soma += k
 
-print(soma) # 91
+print(soma)
